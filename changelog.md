@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this template will be documented in this file.
 
+## [1.0.3] - 2020-09-25
+- Updated to CodyFrame 2.8
+- Minor bug fixes
+
 ## [1.0.2] - 2020-07-20
 - Mobile navigation minor changes
 - Minor bug fixes
